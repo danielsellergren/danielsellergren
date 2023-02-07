@@ -1,4 +1,4 @@
-### 👋 I'm Danny
+### I'm Danny 👋
 
 Senior full-stack engineer and engineering manager with 15+ years experience building sustainable, scaleable applications for the modern web.
 
