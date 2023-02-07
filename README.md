@@ -1,6 +1,6 @@
-### 👋
+### 👋 I'm Danny
 
-I'm Danny. Senior full-stack engineer and engineering manager with 15+ years experience building sustainable, scaleable applications for the modern web.
+Senior full-stack engineer and engineering manager with 15+ years experience building sustainable, scaleable applications for the modern web.
 
 Additional interests include brain-computer interfaces, artificial intelligence and machine learning, quantum computation, game development, developer operations, internal tools, and developer operations.
 
